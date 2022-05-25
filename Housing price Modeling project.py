@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[67]:
-
+# This is a WIP project.
 
 import pandas as pd
 import matplotlib.pyplot as plt
